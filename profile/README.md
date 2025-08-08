@@ -63,4 +63,4 @@ Let’s build DNS solutions that are **faster, safer, and smarter** — together
 ---
 
 🔗 **Website**: [[DNSPro](https://dnspro.ir)]
-📬 **Contact**: [[info@dnspro.ir](mailto:info@dnspro.ir)]
+📬 **Contact**: [[we@dnspro.ir](mailto:we@dnspro.ir)]
